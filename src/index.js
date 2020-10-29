@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Layout from './componets/Layouts';
+import Layout from './componets/Layouts.js';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
