@@ -1,3 +1,13 @@
+:root{
+  --primary-brand-color:#000000;
+  --secondary-brand-color:#ffffff;
+  --light-shadow:#808080;
+  --logo-font:'audiowide',cursive;
+}
+*{
+  box-sizing: border-box;
+
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

@@ -7,4 +7,4 @@ export default function Footer(props){
 
         </footer>
     );
-};
+}
